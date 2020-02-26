@@ -4,12 +4,12 @@
     {
         public IAbstractProductA CreateProductA()
         {
-            throw new System.NotImplementedException();
+            return new ProductA();
         }
 
         public IAbstractProductB CreateProductB()
         {
-            throw new System.NotImplementedException();
+            return new ProductB();
         }
     }
 }
