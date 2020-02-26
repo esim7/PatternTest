@@ -1,0 +1,11 @@
+C:\Users\home\source\repos\PaternsTest\PaternsTest\obj\Debug\netcoreapp3.0\PaternsTest.csprojAssemblyReference.cache
+C:\Users\home\source\repos\PaternsTest\PaternsTest\obj\Debug\netcoreapp3.0\PaternsTest.AssemblyInfoInputs.cache
+C:\Users\home\source\repos\PaternsTest\PaternsTest\obj\Debug\netcoreapp3.0\PaternsTest.AssemblyInfo.cs
+C:\Users\home\source\repos\PaternsTest\PaternsTest\bin\Debug\netcoreapp3.0\PaternsTest.exe
+C:\Users\home\source\repos\PaternsTest\PaternsTest\bin\Debug\netcoreapp3.0\PaternsTest.deps.json
+C:\Users\home\source\repos\PaternsTest\PaternsTest\bin\Debug\netcoreapp3.0\PaternsTest.runtimeconfig.json
+C:\Users\home\source\repos\PaternsTest\PaternsTest\bin\Debug\netcoreapp3.0\PaternsTest.runtimeconfig.dev.json
+C:\Users\home\source\repos\PaternsTest\PaternsTest\bin\Debug\netcoreapp3.0\PaternsTest.dll
+C:\Users\home\source\repos\PaternsTest\PaternsTest\bin\Debug\netcoreapp3.0\PaternsTest.pdb
+C:\Users\home\source\repos\PaternsTest\PaternsTest\obj\Debug\netcoreapp3.0\PaternsTest.dll
+C:\Users\home\source\repos\PaternsTest\PaternsTest\obj\Debug\netcoreapp3.0\PaternsTest.pdb
